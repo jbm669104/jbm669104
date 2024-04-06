@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbm669104 ( Juan.B )
 - 👀 I’m interested in ... Programing 
 - 🌱 I’m currently learning ... Analista Programador
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on every project
 - 📫 How to reach me ...
 
 <!---
